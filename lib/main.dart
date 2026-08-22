@@ -10,7 +10,7 @@ class student{
 
   }
   void Print(){
-    print("orignal number");
+    print("main number");
     print("first number is: $a");
     print("second number is: $b");
   }
